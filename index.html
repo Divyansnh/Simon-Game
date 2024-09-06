@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Simon Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Advanced Simon</h1>
+        <div id="info-panel">
+            <div>Level: <span id="level">0</span></div>
+            <div>High Score: <span id="high-score">0</span></div>
+        </div>
+        <div id="game-board">
+            <div class="btn green" data-color="green"></div>
+            <div class="btn red" data-color="red"></div>
+            <div class="btn yellow" data-color="yellow"></div>
+            <div class="btn blue" data-color="blue"></div>
+            <div id="center-circle">
+                <button id="start-btn">Start</button>
+            </div>
+        </div>
+        <div id="controls">
+            <button id="mode-btn">Mode: Classic</button>
+            <button id="sound-btn">Sound: On</button>
+            <button id="help-btn">Help</button>
+        </div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>How to Play Advanced Simon</h2>
+            <p>1. Press Start to begin the game.</p>
+            <p>2. Watch and remember the sequence of colors.</p>
+            <p>3. Repeat the sequence by clicking the colored buttons.</p>
+            <p>4. The sequence gets longer with each round.</p>
+            <p>5. If you make a mistake, the game ends.</p>
+            <p><strong>Game Modes:</strong></p>
+            <p>- Classic: Standard Simon game</p>
+            <p>- Speed: Faster sequence playback</p>
+            <p>- Reverse: Repeat the sequence in reverse order</p>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
