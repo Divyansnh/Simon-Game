@@ -11,7 +11,7 @@
 
 *A modern implementation of the classic Simon memory game with multiple game modes and responsive design*
 
-[🎯 Live Demo](#) • [📖 Documentation](#features) • [🚀 Getting Started](#installation)
+[🎯 Live Demo](https://divyansnh.github.io/Simon-Game/) • [🚀 Getting Started](#installation)
 
 </div>
 
@@ -26,7 +26,6 @@
 - [🚀 Quick Start](#-quick-start)
 - [🎮 How to Play](#-how-to-play)
 - [🔧 Game Modes](#-game-modes)
-- [📱 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👨‍💻 Developer](#-developer)
@@ -71,7 +70,6 @@ The game challenges players to remember and repeat increasingly complex sequence
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ### External Resources
-![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
 
 </div>
@@ -150,20 +148,6 @@ Simon-Game/
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### Game Interface
-![Game Interface](https://via.placeholder.com/600x400/4CAF50/FFFFFF?text=Simon+Game+Interface)
-
-### Game Modes
-![Game Modes](https://via.placeholder.com/800x300/FF9800/FFFFFF?text=Multiple+Game+Modes)
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -234,13 +218,13 @@ SOFTWARE.
 <div align="center">
 
 ### Divyansh Singh
-*Frontend Developer & Game Enthusiast*
+*Frontend Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyansnh)
 
 **Skills:** HTML5, CSS3, JavaScript, jQuery, Game Development
 
-**Interests:** Web Development, Game Development, Interactive Applications
+**Interests:** Web Development, Interactive Applications
 
 ---
 
